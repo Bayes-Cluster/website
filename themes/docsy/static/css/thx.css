@@ -1,0 +1,17 @@
+.thx {
+    text-align: center;
+  }
+  
+  .thx > a {
+    margin-right: 15px;
+    margin-left: 15px;
+    font-size: 30px;
+  }
+  
+  .thx > a > span {
+    color: #777777;
+  }
+
+  .featurette-divider {
+    margin: 4rem 0; /* Space out the Bootstrap <hr> more */
+  }
